@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KnifeParty12/Minimal-Portfolio-Design.git"
+    "url": "git+https://github.com/akhil-enma/Minimal-portfolio-design.git"
   },
   "author": "Nikhil Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KnifeParty12/Minimal-Portfolio-Design/issues"
+    "url": "https://github.com/akhil-enma/Minimal-portfolio-design/issues"
   },
-  "homepage": "https://KnifeParty12.github.io/Minimal-Portfolio-Design",
+  "homepage": "https://akhil-enma.github.io//Minimal-portfolio-design",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
