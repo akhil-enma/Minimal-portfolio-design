@@ -18,4 +18,4 @@ the expected rise in popularity of minimalism has reached an all-time high and I
 
 > **I preferred **Bootstrap** just to create responsive columns so we can concentrate more on other parts of website.**
 
-### [Deployment](https://akhil-enma.github.io/Minimal-portfolio-design/index.html)
+
